@@ -1,5 +1,5 @@
-#sets the model. We use llama3.2
-FROM llama3.2:1b
+#sets the model. Let's use gemma3:1b
+FROM <modelname>
 
 # sets the temperature to 1 [higher is more creative, lower is more coherent]
 PARAMETER temperature 1
