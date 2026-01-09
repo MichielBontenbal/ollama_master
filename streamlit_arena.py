@@ -1,6 +1,8 @@
 """
 Dutch Text Simplifier - Compare Two LLM Models
 Uses Ollama as backend with gemma3:1b and leesplank-noot-eurollm-1.7b models
+
+This app was vibe coded by Claude 4.5 in December 2025.
 """
 
 import streamlit as st
